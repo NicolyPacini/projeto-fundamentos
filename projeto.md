@@ -7,7 +7,7 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|NIcoly Pacini|Gerente de Projeto|efraimdossantos@icloud.com|
+|Uédina Clarice|Gerente de Projeto|uedinaclaricebarros@gmail.com|
 
 # Sumário
 
