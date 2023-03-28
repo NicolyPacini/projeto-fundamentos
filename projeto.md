@@ -7,7 +7,7 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Uédina Clarice|Gerente de Projeto|uedinaclaricebarros@gmail.com|
+|ana carolina|Gerente de Projeto|ac4686993@gmail.com|
 
 # Sumário
 
