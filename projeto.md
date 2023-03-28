@@ -7,7 +7,9 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|ana carolina|Gerente de Projeto|ac4686993@gmail.com|
+|NIColy Pacini| Gerente de Projeto|efraimdossantos@icloud.com|
+|Uédina Clarice|Gerente de Projeto| uedinaclaricebarros@gmail .com|
+|Ana Carolina Leopoldo|Gerente de Projeto|ac4686993@gmail.com|
 
 # Sumário
 
