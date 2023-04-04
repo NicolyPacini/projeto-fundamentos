@@ -1,6 +1,6 @@
 <img src='/img/logo.png' alt='logo da empresa' width='150px' heidth='150px'/>
 
-# *FIBONACCI MANAGEMENT SYSTEM*
+# *Euforia Make-up*
 
 # PROJETO DE SOFTWARE
 
@@ -8,7 +8,7 @@
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
 |NIColy Pacini| Gerente de Projeto|efraimdossantos@icloud.com|
-|Uédina Clarice|Gerente de Projeto| uedinaclaricebarros@gmail .com|
+|Uédina Clarice|Gerente de Projeto| uedinaclaricebarros@gmail.com|
 |Ana Carolina Leopoldo|Gerente de Projeto|ac4686993@gmail.com|
 
 # Sumário
