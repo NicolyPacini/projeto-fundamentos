@@ -7,9 +7,10 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|NIColy Pacini| Gerente de Projeto|efraimdossantos@icloud.com|
+|Nicoly Pacini| Gerente de Projeto|efraimdossantos@icloud.com|
 |Uédina Clarice|Gerente de Projeto| uedinaclaricebarros@gmail.com|
 |Ana Carolina Leopoldo|Gerente de Projeto|ac4686993@gmail.com|
+|Vitória Gonçalves da Silva|Gerente do projeto|Vit0r4a33@gmail.com|
 
 # Sumário
 
@@ -46,7 +47,7 @@
 | NOME DO PROJETO | Euforia Make-up |
 | GERENTE DO PROJETO | Nicoly |
 | PRINCIPAL OBJETIVO |  Objetivo do nosso projeto e ajudar você para elevar sua auto-estima com nossos produtos. A empresa make-up é voltada para vendas de maquiagens|
-| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
+| BENEFÍCIOS ESPERADOS |* Vendas de maquiagens ;<br/>* ajudar o cliente a ter uma relação melhor com o seu rosto;<br/>* Ter mais criações no mercado de trabalho;<br/>* servir de inspiração pra pequenas empresas;<br/>* Ter um preço acessível|
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
 [ [INÍCIO](#fibonacci-management-system) ]
