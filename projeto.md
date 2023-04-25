@@ -187,9 +187,26 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
-
+|RF-001 | Realizar Cadastro de Clientes | O sistema deve possibilitar que os clientes da Euforia Make-upsejam cadastrados, sendo os seguintes campus obrigatórios: nome; sexo; data de nascimento; telefone; e-mail; cpf/cnpj; estado civil; endereço.|
+|RF-002 | Realizar as vendas de produtos | O sistema deve possibilitar as vendas dos produtos comercializados. |
+|RF-003 | Quantidade de produtos vendidos | O sistema deve possibilitar a quantidades de produtos vendididos para os clientes. |
+|RF-004 | Emitir relatório de produtos vendidos | O sistema deve possibilitar a emissão de relátorio de vendas personalizadas. |
+|RF-005 | Calcular o valor do pedido | O sistema deve calcular automaticamente o valor do pedido, possibilitando o cliente saber o exato valor da sua compra. |
+|RF-006 | Proporcionar dicas de maquiagens | O sistema deve possibilitar dicas de maquiagens para o cliente que tem dificuldade na hora de comprar, possibilitando saber os produtos ideais para cada tipo de pele. |
+|RF-007 | Selecionar uma forma de pagamento | Descreva aqui as informações sobre o requisito |
+|RF-008 | Selecionar tipo de produto | Descreva aqui as informações sobre o segundo requisito |
+|RF-009 | Calcular o preço final | Descreva aqui as informações sobre o requisito |
+|RF-010 | Proporcionar cupons de desconto | Descreva aqui as informações sobre o segundo requisito |
+|RF-011 | Proporcionar sorteios | Descreva aqui as informações sobre o requisito |
+|RF-012 | Categorizar os produtos | Descreva aqui as informações sobre o segundo requisito |
+|RF-013 | Notificar a chegada de novos produtos | Descreva aqui as informações sobre o requisito |
+|RF-014 | Notificar promoções | Descreva aqui as informações sobre o segundo requisito |
+|RF-015 | Emitir um comprovante | Descreva aqui as informações sobre o requisito |
+|RF-016 | Finalizar a venda | Descreva aqui as informações sobre o segundo requisito |
+|RF-017 | Calcular o valor do frete | Descreva aqui as informações sobre o requisito |
+|RF-018 | Avisar sobre o prazo de entrega | Descreva aqui as informações sobre o segundo requisito |
+|RF-019 | Selecionar os produtos para o carrrinho | Descreva aqui as informações sobre o requisito |
+|RF-020 | Avaliação do cliente | Descreva aqui as informações sobre o segundo requisito |
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
