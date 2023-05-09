@@ -188,33 +188,42 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
 |RF-001 | Realizar Cadastro de Clientes | O sistema deve possibilitar que os clientes da Euforia Make-upsejam cadastrados, sendo os seguintes campus obrigatórios: nome; sexo; data de nascimento; telefone; e-mail; cpf/cnpj; estado civil; endereço.|
-|RF-002 | Realizar as vendas de produtos | O sistema deve possibilitar as vendas dos produtos comercializados. |
-|RF-003 | Quantidade de produtos vendidos | O sistema deve possibilitar a quantidades de produtos vendididos para os clientes. |
+|RF-002 | Realizar as vendas de produtos| O sistema deve possibilitar as vendas dos produtos comercializados. |
+|RF-003 | Quantidade de produtos vendidos| O sistema deve possibilitar a quantidades de produtos vendididos para os clientes. |
 |RF-004 | Emitir relatório de produtos vendidos | O sistema deve possibilitar a emissão de relátorio de vendas personalizadas. |
 |RF-005 | Calcular o valor do pedido | O sistema deve calcular automaticamente o valor do pedido, possibilitando o cliente saber o exato valor da sua compra. |
 |RF-006 | Proporcionar dicas de maquiagens | O sistema deve possibilitar dicas de maquiagens para o cliente que tem dificuldade na hora de comprar, possibilitando saber os produtos ideais para cada tipo de pele. |
-|RF-007 | Selecionar uma forma de pagamento | Descreva aqui as informações sobre o requisito |
-|RF-008 | Selecionar tipo de produto | Descreva aqui as informações sobre o segundo requisito |
-|RF-009 | Calcular o preço final | Descreva aqui as informações sobre o requisito |
-|RF-010 | Proporcionar cupons de desconto | Descreva aqui as informações sobre o segundo requisito |
-|RF-011 | Proporcionar sorteios | Descreva aqui as informações sobre o requisito |
-|RF-012 | Categorizar os produtos | Descreva aqui as informações sobre o segundo requisito |
-|RF-013 | Notificar a chegada de novos produtos | Descreva aqui as informações sobre o requisito |
-|RF-014 | Notificar promoções | Descreva aqui as informações sobre o segundo requisito |
-|RF-015 | Emitir um comprovante | Descreva aqui as informações sobre o requisito |
-|RF-016 | Finalizar a venda | Descreva aqui as informações sobre o segundo requisito |
-|RF-017 | Calcular o valor do frete | Descreva aqui as informações sobre o requisito |
-|RF-018 | Avisar sobre o prazo de entrega | Descreva aqui as informações sobre o segundo requisito |
-|RF-019 | Selecionar os produtos para o carrrinho | Descreva aqui as informações sobre o requisito |
-|RF-020 | Avaliação do cliente | Descreva aqui as informações sobre o segundo requisito |
+|RF-007 | Selecionar uma forma de pagamento | O sistema permite que o cliente selecione o modo de pagamento de sua preferencia de acordo com as opções do sistema   |
+|RF-008 | Selecionar tipo de produto | Permite ao cliente selecionar qualquer produto dentro do catalogo |
+|RF-009 | Calcular o preço final | O sistema realiza internamente a soma de todos os produtos escolhidos pelo cliente |
+|RF-010 | Proporcionar cupons de desconto | Assim que disponivel o sistema da ao cliente um cupom |
+|RF-011 | Cnacelamento de produtos| O sistema propõe também o cancelamento do pruduto  |
+|RF-012 | Categorizar os produtos | O sistema categoriza automaticamente o produto conforme seus dados |
+|RF-013 | Notificar a chegada de novos produtos | Assim que possivel o sistema notifica ao cliente em segundo plano a chegada de um novo produto ou qualquer novidade |
+|RF-014 | Notificar promoções | Assim como o requisisto acima o sistema notifica em segundo plano as promoções |
+|RF-015 | Finalizar a venda | Apos a confirmação da compra o sistema finaliza a compra emitindo assim o comprovante |
+|RF-016 | Emitir um comprovante | Apos a compra o sistema emite um comprovante ao cliente para evitar futuros problemas, tanto para o nosso sistema quanto para o usuario |
+|RF-017 | Emitir valor do frete | Apos a realização da compra o sistema emite o valor do frete |
+|RF-018 | Avisar sobre o prazo de entrega | O sistema calcula o percurso do produto e avisa sobre o prazo e também o percurso do produto antes de chegar ao cliente |
+|RF-019 | Selecionar os produtos para o carrinho | O sistema permite que o cliente selecione qualquer produto de sua escolha até o carinho ilimitadas vezes |
+|RF-020 | Avaliação do cliente | O sistema possibilita que o usuario avalie nossos produtos e aplicativos|
+|RF-021 | feedback | Possibilita que o cliente consiga entrar em contato com os nossos servidores para alguma duvida ou opnião |
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
-|RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-001 | Privacidade dos dados do usuario | A aplicação deve ser segura para o uso protegendo todos os dados do usuário e evitando violações de privacidade|
+|RNF-002 | Suporte  | O sistema deve ter capacidade de suportar varios usuarios e transações sem diminuir seu desempenho |
+|RNF-003 | Personalização | O sistema deve ser personalizavel de acordo acom as preferencias do cliente como foto do usuario e etc. |
+|RNF-004 | Acessibilidade | A aplicação deve seer acessivel a todos os usuarios dependendo é claro de seus cargos  |
+|RNF-005 | Manutenção | O sistema deve ser facil de se manter e artuializar para que posso ser compativel em varios dispositivos |
+|RNF-006 | |Descreva aqui as informações sobre o segundo requisito |
+|RNF-007 | Facilidade | A insterface do sistema deve ser de facil entendimento para varios usuarios de diferentes idades e dificuldades |
+|RNF-008 |  |Descreva aqui as informações sobre o segundo requisito |
+|RNF-009 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
+|RNF-010 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
