@@ -62,14 +62,11 @@ Este documento destina-se aos clientes, engenheiros, gerentes e demais stakehold
 
 Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
 * Entrevista:
-  * Discussões individuais de um representante da equipe com José de Arimatéia, diretor da Escola Fibonacci.
+  * Entrevista: Discussões com todas as integrantes do grupo, para decidirmos as melhores ideias e maneiras de obter o melhor resultado, para nós (integrantes) e para os nossos usuários.
 * Consulta com especialista:
-  * Gustavo, coordenador de pós-graduação do curso de Ciências Contábeis da Universidade Federal orientou na concepção do sistema devido sua experiência em trabalhar em cursos semipresenciais e ser um dos consultores da empresa;
-  * Alex Sandro Gomes, professor do Centro de Informática da Universidade Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
-  * Silvio Zanchetti, coordenador do curso on-line ITUC/AL, foi outro entrevistado;
-  * Manasses dos Santos Silva, responsável pelo treinamento dos funcionários do laboratório HEXAL BRASIL.
+  * Wagner da Silva, professor responsável, graduação sistema de informação.
 * Prototipação:
-  * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
+  * Representações das ideias de maquiagem que estará em venda, design da nossa loja, aprovada pelas integrantes do grupo.
 
 
 
@@ -77,9 +74,9 @@ Foram usados três métodos para que pudessem ser obtidos os requisitos do siste
 
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 
-* EaD: Eaducação a Distância
-* Moodle: Ambiente Virtual que hospedará os cursos oferecidos
-* Exame Final: Avaliação destinada aos estudantes que obtiveram média anual inferior à 60 pontos
+* Make-up: Se maquiar; 
+*	Euforia: estado caracterizado por alegria, despreocupação, otimismo e bem-estar.
+
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
@@ -95,9 +92,9 @@ O escopo do **produto** pode ser consultado nos [requisitos do software](#requis
 ### FORA DO ESCOPO
 
 Não fazem parte do escopo do projeto:
-* Instalação e configuração do ambiente tecnológico do cliente;
-* Treinamento de instalação, configuração, administração e  utilização do sistema;
-* Integração com quaisquer sistemas ou base de dados do ambiente tecnológico do cliente.
+* Configurações no aplicativo direto do aparelho do cliente;
+* Interferência em quaisquer informações adquiridas do ambiente tecnológico do cliente.
+
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
