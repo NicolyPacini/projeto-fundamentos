@@ -86,8 +86,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de uma ferramenta para gerenciamento de aprendizado *(Learning Management System - LMS)*, que possa atender os requisitos da Escola Fibonacci, no fator de educação à distância. O projeto visa auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino.
-O escopo do **produto** pode ser consultado nos [requisitos do software](#requisitos-do-software)
+O  sistema  Euforia Make-up e voltado diretamente para vendas de maquiagens,dicas, e indicações de produtos voltados a cada tipo de pele, e também auxilia os maquiadores iniciantes ou para quem vai se maquiar pela primeira vez e não sabe que produto utilizar.
 
 ### FORA DO ESCOPO
 
@@ -99,30 +98,31 @@ Não fazem parte do escopo do projeto:
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
-|**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, tal como: logar e enviar mensagens. Todos demais usuários estendem as funcionalidades do UsuárioPadrão|
-|**Administrador:**|Responsáveis pelo gerenciamento das entidades pertinentes à instituição e pela alocação de outros administradores|
-|**Coordenador:**|Responsáveis pela aprovação de disciplinas, turmas e matrículas realizadas pela secretaria do curso, além de ser responsável pela alocação da secretaria|
-|**Secretaria:**|Responsáveis pelo cadastramento de disciplinas e turmas, pela alocação de professores e monitores de um curso e matrículas dos alunos|
-|**Professor:**|Responsáveis pela criação do programa da disciplina através de ferramentas de planejamento e criação de atividades|
-|**Aluno:**|Seguem o programa da disciplina criada pelo professor, tendo como apoio ferramentas de comunicação, tal como: chat e fórum|
+|**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, tal como: logar e enviar mensagens. Todos demais usuários estendem as funcionalidades do UsuárioPadrão. |
+|**Administrador:**|Responsáveis pelo gerenciamento das entidades pertinentes à loja. |
+|**Atendente:**|Responsáveis pelos clientes da loja, auxiliando ao máxima. |
+|**Secretaria:**|Responsáveis pelo cadastramento e organização dos produtos.Responsáveis pela aprovação e alocação de produtos na loja |
+|**Assitente:**|Responsáveis pela aprovação e alocação de produtos na loja. |
+|**Desing:**|Responsáveis pelo do site oficial da loja. |
+|**Gerente:**|Responsáveis por manter o controle e organização da loja. |
 
 ## Abrangência e sistemas similares
 
 ### Abrangência:
 
-O sistema irá conter ferramentas para construção de um plano de aulas que esteja de acordo com os objetivos e metodologia de uma turma ministrada pelo professor. O professor através de ferramentas (como Chat, Fórum, Base de Documentos) irá montar o programa desta disciplina que deverá ser seguido pelo aluno usuário do sistema. O professor terá a liberdade de criar atividades (textos e questionários) e determinar prazos a serem cumpridos pelos alunos. Serão armazenadas as resoluções dos alunos para serem corrigidas pelo professor posteriormente, gerando estatísticas do desempenho de cada aluno e da turma. O sistema também irá prover o gerenciamento das entidades que compõem a instituição e os usuários do sistema.
+ O sistema irá conter ferramentas para construção de uma loja de maquiagens, com produtos de otíma qualidade. As donas da loja através do site oficial, vão disponibilizar os produtos que serão comprados/consumidos pelos clientes. As Donas terão a liberdade de colocar os produtos que quiserem e as dicas de maquiagem que acharem pertinentes para seu púlblico alvo. Serão disponibilidados os produtos escolhidos para a venda, assim que os clientes comprarem será gerado estatisticamente o valor total ganho nas vendas. O sistema também irá prover o gerenciamento das entidades que compõem a loja.
 
-Dentre as ferramentas de comunicação do sistema existirão as assíncronas, como Chat, onde poderão ser feitas reuniões, discussões, explicações conjuntas ou qualquer outra atividade de comunicação. O Fórum consiste na ferramenta síncrona usada para os mesmos fins do Chat.
+Dentre as ferramentas utilizadas pela loja, a principal será o site oficial "Euforia Make-up", onde serão realizadas as vendas.
 
 Das ferramentas de planejamento podemos citar:
 
-* **Avaliações e Exercícios:** serão criadas tarefas a serem entregues pelos alunos nos determinados prazos;
+* **Produtos Disponíveis:** Serão disponibilizados produtos para serem vendidos na loja;
 
-* **Anúncios:** espaço para criação de avisos e informes aos alunos de uma determinada turma;
+* **Anúncios:** Espaço para anunciar promoções de produtos;
 
-* **Manipulação de Arquivos:** haverá um diretório onde podem ser acumulados arquivos de diversos tipos pelos usuários;
+* **Organização das vendas:** haverá um diretório onde terá todas as informações sobre as vendas realizadas;
 
-* **Planejamento de Aulas:** planejamento de uma aula estruturada com leituras e exercícios.
+* **Planejamento de Maquiagens:** Planejamento das maquiagens que poderão ser de grande ajuda para os cliente.
 
 ### Sistemas similares:
 
@@ -211,16 +211,16 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 | Privacidade dos dados do usuario | A aplicação deve ser segura para o uso protegendo todos os dados do usuário e evitando violações de privacidade|
-|RNF-002 | Suporte  | O sistema deve ter capacidade de suportar varios usuarios e transações sem diminuir seu desempenho |
+|RNF-001 | Privacidade dos dados do usuario | A aplicação deve ser segura para o uso protegendo todos os dados do usuário e evitando violações de privacidade.|
+|RNF-002 | Suporte  | O sistema deve ter capacidade de suportar varios usuarios e transações sem diminuir seu desempenho. |
 |RNF-003 | Personalização | O sistema deve ser personalizavel de acordo acom as preferencias do cliente como foto do usuario e etc. |
-|RNF-004 | Acessibilidade | A aplicação deve seer acessivel a todos os usuarios dependendo é claro de seus cargos  |
-|RNF-005 | Manutenção | O sistema deve ser facil de se manter e artuializar para que posso ser compativel em varios dispositivos |
-|RNF-006 | |Descreva aqui as informações sobre o segundo requisito |
-|RNF-007 | Facilidade | A insterface do sistema deve ser de facil entendimento para varios usuarios de diferentes idades e dificuldades |
-|RNF-008 |  |Descreva aqui as informações sobre o segundo requisito |
-|RNF-009 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
-|RNF-010 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-004 | Acessibilidade | A aplicação deve ser acessivel a todos os usuários. |
+|RNF-005 | Manutenção | O sistema deve ser fácil de se manter e atuializar para que posso ser compatível em vários dispositivos. |
+|RNF-006 | Organização | O sistema deve ter uma otíma organização, para que tudo ocorra bem e sem problemas. |
+|RNF-007 | Facilidade | A insterface do sistema deve ser de fácil entendimento para vários usuários de diferentes idades e dificuldades. |
+|RNF-008 | Legal | Tudo relacionado ao sistema deve ser legal, conforme a lei. |
+|RNF-009 | Portabilidade  | O sistema deve ter facilidade em ser tranferido de um sistema computacional para outro. |
+|RNF-010 | Eficiência | O sistema deve garantir ter eficiência em todos os quesitos necessários. |
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
