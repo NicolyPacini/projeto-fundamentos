@@ -101,9 +101,9 @@ Não fazem parte do escopo do projeto:
 |**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, tal como: logar e enviar mensagens. Todos demais usuários estendem as funcionalidades do UsuárioPadrão. |
 |**Administrador:**|Responsáveis pelo gerenciamento das entidades pertinentes à loja. |
 |**Atendente:**|Responsáveis pelos clientes da loja, auxiliando ao máxima. |
-|**Secretaria:**|Responsáveis pelo cadastramento e organização dos produtos.Responsáveis pela aprovação e alocação de produtos na loja |
+|**Secretaria:**|Responsáveis pelo cadastramento e organização dos produtos. |
 |**Assitente:**|Responsáveis pela aprovação e alocação de produtos na loja. |
-|**Desing:**|Responsáveis pelo do site oficial da loja. |
+|**Desing:**|Responsáveis pelo visual do site oficial da loja. |
 |**Gerente:**|Responsáveis por manter o controle e organização da loja. |
 
 ## Abrangência e sistemas similares
