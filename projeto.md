@@ -277,6 +277,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Classes
 
+![Diagrama de Classes](/img/trabalho.png)
+
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Sequências
