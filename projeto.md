@@ -156,17 +156,21 @@ Os usuários devem utilizar um computador com a seguinte configuração mínima:
 Uma vez definidos a necessidade para o sistema e seus requisitos de negócio, é possível compreender melhor o projeto do sistema proposto para elaborar o estudo de viabilidade com os seguintes destaques:
 
 ## Viabilidade Técnica
-Sim, a nossa empressa tem em mente a noção da nossa capacidade, tendo ciência que podemos operar sistemas de maneira eficaz e eficiente, trabalhamos com base em sitemas especializados e sistemas de informação com uma taxa de sucesso relevante, além de possuir empregados capacitados com técnicas avançadas para administrar o projeto com sucesso para realização do seu atendimento.
+Sim, a nossa empressa tem em mente a noção da nossa capacidade, tendo ciência que podemos desenvolver sistemas de maneira eficaz e eficiente usando: Mobincube um sistema móvel desenvolvido pela Microsoft, que nos permite criar aplicativos tanto para Android quanto para iOS e até mesmo Windows Phone, trabalhamos com base em sitemas especializados e sistemas de informação com uma taxa de sucesso relevante, além de possuir empregados capacitados com técnicas avançadas para administrar o projeto com sucesso para realização do seu atendimento.
 
 ## Viabilidade Econômica
-Sim pois elaboramos uma reunião para discutir sobre os custos e beneficios da nossa empresa de maquiagem e também sobre as marcas de maquiagens mais benéficas para todos. Buscando a melhor forma de investir visando obter um bom lucro. Após a inauguração, espera-se oferecer um ótimo serviço, com um site bem desenvolvido e moderno, maquigens de qualidade e com alta durabilidade e aprimorar a funcionabilidade do sistema da loja "Euforia Make-up".
+Sim após elaboramos uma reunião para discutir sobre os custos e beneficios da nossa empresa de maquiagem e também sobre as marcas de maquiagens mais benéficas para todos. Buscando a melhor forma de investir visando obter um bom lucro. Após a inauguração, espera-se oferecer um ótimo serviço, com um site bem desenvolvido e moderno, maquigens de qualidade e com alta durabilidade e aprimorar a funcionabilidade do sistema da loja "Euforia Make-up" com um grande avanço economico após expandirmos nossa empresa voltando especificamente a sustentabilidade e com a diminuição dos valores dos nossos produtos visando mantermos a qualidade alcansamos um publico maior, tendo assim mais lucro.
 
 ## Viabilidade Organizacional
-Sim, de acordo com nossos dados acreditamos que o nosso aplicativo oferece uma boa qualidade em todos os fatores e da forma mais compreensível possível para o bem estar dos clientes, no nosso ponto de vista uma empresa que reflete os seus clientes se mantem focada e sustentável de maneira segura e que possibilite todos de ter uma experiencia interressante seja ela em qualqueer tipo de ambiente possível.
+Sim, de acordo com nossos dados acreditamos que o nosso aplicativo oferece uma boa qualidade em todos os fatores e da forma mais compreensível possível para o bem estar dos clientes, uma empresa que reflete os seus clientes se mantem focada e sustentável de maneira segura e que possibilite todos de ter uma experiencia interressante seja ela em qualqueer tipo de ambiente possível seja na compra de um produto ou na entrega dele, pensando nisso decidimos aumentar o numero de entregadores para que o tempo de espera seja menor, além de também conseguir acessar lugares isolados e de classe social mais baixa.
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Metodologia Adotada no Desenvolvimento
+O Processo Unificado da Rational conhecido como RUP (Rational Unified Process), é um processo de engenharia de software criado para apoiar o desenvolvimento orientado a objetos, fornecendo uma forma sistemática para se obter vantagens no uso da UML. Foi criado pela Rational Software Corporation e adquirido em fevereiro de 2003 pela IBM.
+O principal objetivo do RUP é atender as necessidades dos usuários garantindo uma produção de software de alta qualidade que cumpra um cronograma e um orçamento previsíveis.
+Escolhemos o RUP pois ele é conhecido pelo seu foco e qualidade de software ajudando até mesmo com futuros riscos para a empresa.
+
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
