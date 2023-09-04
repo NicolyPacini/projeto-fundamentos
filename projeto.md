@@ -156,16 +156,13 @@ Os usuários devem utilizar um computador com a seguinte configuração mínima:
 Uma vez definidos a necessidade para o sistema e seus requisitos de negócio, é possível compreender melhor o projeto do sistema proposto para elaborar o estudo de viabilidade com os seguintes destaques:
 
 ## Viabilidade Técnica
-Os colaboradores da empresa contratante possuem bastante experiência com aplicações desta natureza, os analistas também estão familiarizados com esta área de aplicação comercial, porém o sistema utiliza uma tecnologia nova, com a qual os analistas e programadores não estão familiarizados. No que se refere ao tamanho do sistema, trata-se de um projeto de médio porte, com baixo nível de complexidade, que não será integrado a outros sistemas, limitando-se a atender a demanda da escola no que se refere à EaD, que, atualmente possui 1.000 alunos matriculados. Conclui-se que o projeto possui viabilidade técnica, em virtude dos baixos riscos identificados.
+Sim, a nossa empressa tem em mente a noção da nossa capacidade, tendo ciência que podemos operar sistemas de maneira eficaz e eficiente, trabalhamos com base em sitemas especializados e sistemas de informação com uma taxa de sucesso relevante, além de possuir empregados capacitados com técnicas avançadas para administrar o projeto com sucesso para realização do seu atendimento.
 
 ## Viabilidade Econômica
-
-Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conservadoras do retorno sobre o investimento e dos benefícios totais, este projeto é viável economicamente. Após a implantação, espera-se uma melhoria na qualidade dos serviços prestados e aumento da capacidade de vagas da unidade escolar.
+Sim pois elaboramos uma reunião para discutir sobre os custos e beneficios da nossa empresa de maquiagem e também sobre as marcas de maquiagens mais benéficas para todos. Buscando a melhor forma de investir visando obter um bom lucro. Após a inauguração, espera-se oferecer um ótimo serviço, com um site bem desenvolvido e moderno, maquigens de qualidade e com alta durabilidade e aprimorar a funcionabilidade do sistema da loja "Euforia Make-up".
 
 ## Viabilidade Organizacional
-
-Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
-
+Sim, de acordo com nossos dados acreditamos que o nosso aplicativo oferece uma boa qualidade em todos os fatores e da forma mais compreensível possível para o bem estar dos clientes, no nosso ponto de vista uma empresa que reflete os seus clientes se mantem focada e sustentável de maneira segura e que possibilite todos de ter uma experiencia interressante seja ela em qualqueer tipo de ambiente possível.
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
