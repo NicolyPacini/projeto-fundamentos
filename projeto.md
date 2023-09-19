@@ -271,7 +271,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO |Criar Conta|UC-02|UC-03|UC-04|UC-05|UC-06|UC-07|UC-08|UC-09| UC-10|     
+| REQUISITO |Criar Conta|Realizar Compra|Cancela Compra|Realizar Pagamento|Adicionar item ao carrinho|Sair Do Aplicativo|Realizar fadback|Visualizar Carrinho de Compra|Escolher Forma de Pagamento| Exclui item do Carrinho|     
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |RF-001|X| | | | | | | | | |
 |RF-002| |X| |X| | | | | | |
