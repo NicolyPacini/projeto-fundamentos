@@ -271,7 +271,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO |1 Criar Conta| 2 Realizar Compra| 3 Cancela Compra| 4 Realizar Pagamento| 5 Adicionar item ao carrinho| 6 Notificações e avisos| 7 Realizar fadback| 8 Visualizar Carrinho de Compra| 9 Escolher Forma de Pagamento| 10  Exclui item do Carrinho|     
+| REQUISITO |Criar Conta|Realizar Compra|Cancela Compra|Realizar Pagamento|Adicionar item ao carrinho|Notificações e avisos|Realizar fadback|Visualizar Carrinho de Compra|Escolher Forma de Pagamento|Exclui item do Carrinho|     
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |RF-001|X| | | | | | | | | | 
 |RF-002| |X| | | | | | | | | 
