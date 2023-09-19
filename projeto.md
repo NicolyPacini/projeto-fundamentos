@@ -273,8 +273,27 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | REQUISITO |Criar Conta|Realizar Compra|Cancela Compra|Realizar Pagamento|Adicionar item ao carrinho|Sair Do Aplicativo|Realizar fadback|Visualizar Carrinho de Compra|Escolher Forma de Pagamento| Exclui item do Carrinho|     
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|RF-001|X| | | | | | | | | |
-|RF-002| |X| |X| | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-002| |X|X|X|X|X| | | |X| |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+|RF-001|X| | | | | | | | | | |
+
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
