@@ -273,26 +273,26 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | REQUISITO |1 Criar Conta| 2 Realizar Compra| 3 Cancela Compra| 4 Realizar Pagamento| 5 Adicionar item ao carrinho| 6 Notificações e avisos| 7 Realizar fadback| 8 Visualizar Carrinho de Compra| 9 Escolher Forma de Pagamento| 10  Exclui item do Carrinho|     
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|RF-001|X |  |  |  |  |  |  |  |  |  | 
-|RF-002|  |X |  |  |  |  |  |  |  |  | 
-|RF-003|  |  |  |  |X |  |  |  |  |X | 
-|RF-004|  |  |  |X |  |  |  |  |  |  | 
-|RF-005|  |  |  |  |  |  |  |X |  |  | 
-|RF-006|  |  |  |  |  |X |  |  |  |  | 
-|RF-007|  |  |  |  |  |  |  |  |X |  | 
-|RF-008|  |  |  |  |X |  |  |  |  |  | 
-|RF-009|  |  |  |  |  |  |  |X |  |  | 
-|RF-010|  |  |  |  |  |X |  |  |  |  |
-|RF-011|  |  |X |  |  |  |  |  |  |  | 
-|RF-012|  |  |  |  |  |X |  |  |  |  | 
-|RF-013|  |  |  |  |  |X |  |  |  |  | 
-|RF-014|  |  |  |  |  |X |  |  |  |  | 
-|RF-015|  |X |  |X |  |  |  |  |  |  | 
-|RF-016|  |  |  |X |  |  |  |  |  |  | 
-|RF-017|  |  |  |  |  |X |  |  |  |  | 
-|RF-018|  |  |  |  |  |X |  |  |  |  | 
-|RF-019|  |  |  |  |X |  |  |  |  |  | 
-|RF-020|  |  |  |  |  |  |X |  |  |  | 
+|RF-001|X| | | | | | | | | | 
+|RF-002| |X| | | | | | | | | 
+|RF-003| | | | |X| | | | |X| 
+|RF-004| | | |X| | | | | | | 
+|RF-005| | | | | | | |X| | | 
+|RF-006| | | | | |X| | | | | 
+|RF-007| | | | | | | | |X| | 
+|RF-008| | | | |X| | | | | | 
+|RF-009| | | | | | | |X| | | 
+|RF-010| | | | | |X| | | | |
+|RF-011| | |X| | | | | | | | 
+|RF-012| | | | | |X| | | | | 
+|RF-013| | | | | |X| | | | | 
+|RF-014| | | | | |X| | | | | 
+|RF-015| |X| |X| | | | | | | 
+|RF-016| | | |X| | | | | | | 
+|RF-017| | | | | |X| | | | | 
+|RF-018| | | | | |X| | | | | 
+|RF-019| | | | |X| | | | | | 
+|RF-020| | | | | | |X| | | | 
 
 
 
